@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LNPLH
-- 👀 I’m interested in aprender 
-- 🌱 I’m currently learning pensamento computacional
+- 👀 I’m interested in aprender pensamento computacional
+- 🌱 I’m currently gostando das aulas
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
